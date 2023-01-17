@@ -1,2 +1,2 @@
-2.2|https://cdn.discordapp.com/attachments/1017348908353081385/1064591612426063912/menu.zip|*Add Updater Function
+2.2|https://github.com/ntnhacker1/appsmenu/raw/main/menu.zip|*Add Updater Function
 *Fix some bugs
