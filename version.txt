@@ -1,2 +1,2 @@
-2.2|https://github.com/ntnhacker1/appsmenu/raw/main/menu.zip|*Add Updater Function
-*Fix some bugs
+2.3|https://github.com/ntnhacker1/appsmenu/raw/main/menu.zip|*Sửa 1 số lỗi
+
