@@ -1,3 +1,5 @@
-2.3|https://github.com/ntnhacker1/appsmenu/raw/main/menu.zip|*Sửa 1 số lỗi font chữ
-* Nâng cấp chức năng update lên 2.0
+2.4|https://github.com/ntnhacker1/appsmenu/raw/main/menu.zip|*Sửa 1 số lỗi font chữ
+* Nâng cấp chức năng update
+*Sửa cursor id
+*Show button tip
 
