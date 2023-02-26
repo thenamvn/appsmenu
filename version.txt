@@ -1,5 +1,7 @@
-2.4|https://github.com/ntnhacker1/appsmenu/raw/main/menu.zip|*Sửa 1 số lỗi font chữ
+3.0|https://github.com/ntnhacker1/appsmenu/raw/main/menu.zip|*Sửa 1 số lỗi font chữ
 * Nâng cấp chức năng update
 *Sửa cursor id
 *Show button tip
+*Add search box (support Enter hotkey)
+*add minimize 
 
