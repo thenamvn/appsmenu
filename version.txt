@@ -1,4 +1,3 @@
-4.0|https://github.com/ntnhacker1/appsmenu/raw/main/menu.zip|
-*Add new searchbox ( auto fill + fix search error)
-*Big update
+5.0|https://github.com/thenamdev/appsmenu/raw/main/5.0.zip|
+*Big update modern  MetroUi
 ==>Tác giả: Nguyễn Thế Nam <==
