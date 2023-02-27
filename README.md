@@ -2,7 +2,7 @@ Phần mềm Apps Menu
 -Tác giả: NTN
 Đây là phần mềm được viết bằng AutoIT.
 Bỏ các shortcuts của bạn vô thư mục menu để làm gọn desktop
-![image](https://user-images.githubusercontent.com/57611937/212935673-2a6a7183-7598-4f84-bfa7-89ededb01325.png)
+![image](https://user-images.githubusercontent.com/57611937/221510928-abb6fbfb-ea09-4cec-8bda-db931b5b6ab4.png)
 
 
 Download Here: https://github.com/thenamdev/appsmenu/releases/tag/release
