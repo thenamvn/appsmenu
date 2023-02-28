@@ -1,3 +1,4 @@
-5.0|https://github.com/thenamdev/appsmenu/raw/main/5.0.zip|
-*Big update modern  MetroUi
+6.0|https://github.com/thenamdev/appsmenu/raw/main/6.0.zip|
+*Fix Ui
+*Load on system startup setting
 ==>Tác giả: Nguyễn Thế Nam <==
