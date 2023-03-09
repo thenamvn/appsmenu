@@ -1,5 +1,3 @@
 6.5|https://github.com/thenamdev/appsmenu/raw/main/6.5.zip|
-*Fix Ui
-*Load on system startup setting
-*Update optimize function
+*Add optimize ram function
 ==>Tác giả: Nguyễn Thế Nam <==
