@@ -1,3 +1,3 @@
-6.5|https://github.com/thenamdev/appsmenu/raw/main/6.5.zip|
-*Add optimize ram function
+7.0|https://github.com/thenamdev/appsmenu/raw/main/7.0.zip|
+*Fix bug ram optimize
 ==>Tác giả: Nguyễn Thế Nam <==
