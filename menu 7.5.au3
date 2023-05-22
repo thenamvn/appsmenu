@@ -36,7 +36,7 @@ Global $wide = 826
 Global $high = 517
 $input = @ScriptDir & "\menu"
 Global $button[]
-Global $version = "7.0"
+Global $version = "7.5"
 Global $check = @ScriptDir & "\" & "Open.exe"; Đường dẫn đến file exe được tạo ra
 if FileExists($check) = 0 Then
 	_Metro_MsgBox (0,"Apps Menu", "Không tìm thấy Open.exe")
